@@ -1,6 +1,6 @@
 # Travel List App
 
-This is a practice project.
+A simple note taking app designed to practice learned React fundamentals.
 
 ## What I've Learned
 
